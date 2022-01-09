@@ -1,8 +1,11 @@
 ![stack Overflow](https://i.ibb.co/XFRpCtF/20211106-075141.jpg)
+
 <h1 align="center">Hi 👋, I'm Herman Chanel</h1>
-<h3 align="center">A passionate frontend developer from Indo</h3>
+<h3 align="center">A TETAP SEMANGAT 🙃</h3>
 
 - 📫 Gmail **hermangans73@gmail.com**
+
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
