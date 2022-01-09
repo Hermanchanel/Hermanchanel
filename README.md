@@ -1,12 +1,12 @@
-![stack Overflow](http://lmsotfy.com/so.png)
+![stack Overflow](https://i.ibb.co/XFRpCtF/20211106-075141.jpg)
 <h1 align="center">Hi 👋, I'm Herman Chanel</h1>
 <h3 align="center">A passionate frontend developer from Indo</h3>
 
-- 📫 How to reach me **hermangans73@gmail.com**
+- 📫 Gmail **hermangans73@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/herman chanel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="herman chanel" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCPhU6uA_3gUaEvyrFZFgJqg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="herman chanel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
